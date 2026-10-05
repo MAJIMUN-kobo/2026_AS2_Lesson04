@@ -1,9 +1,9 @@
 # AS2_Lesson04
 ## 2026-10-05 Update.
-- AddressablesによるSpawnerクラスの作成
+■ AddressablesによるSpawnerクラスの作成
 
-[GameManager.cs](https://github.com/MAJIMUN-kobo/2026_AS2_Lesson04/blob/main/Assets/_AS2_Lesson04/Scripts/GameManager.cs)
-[Spawner.cs](https://github.com/MAJIMUN-kobo/2026_AS2_Lesson04/blob/main/Assets/_AS2_Lesson04/Scripts/Spawner.cs)
+  - [GameManager.cs](https://github.com/MAJIMUN-kobo/2026_AS2_Lesson04/blob/main/Assets/_AS2_Lesson04/Scripts/GameManager.cs)
+  - [Spawner.cs](https://github.com/MAJIMUN-kobo/2026_AS2_Lesson04/blob/main/Assets/_AS2_Lesson04/Scripts/Spawner.cs)
 
 ## 2026-09-28 Update.
 - UniTask と Addressables の導入
