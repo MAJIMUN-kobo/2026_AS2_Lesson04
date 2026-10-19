@@ -1,4 +1,12 @@
 # AS2_Lesson04
+## 2026-10-19 Update.
+■ オートマトンを用いた状態管理
+  - [ISceneState.cs](https://google.com)
+  - [TitleSceneState.cs](https://google.com)
+  - [GameSceneState.cs](https://google.com)
+  - [ResultSceneState.cs](https://google.com)
+
+
 ## 2026-10-05 Update.
 ■ AddressablesによるSpawnerクラスの作成
 
