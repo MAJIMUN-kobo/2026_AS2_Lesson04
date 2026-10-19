@@ -1,10 +1,10 @@
 # AS2_Lesson04
 ## 2026-10-19 Update.
 ■ オートマトンを用いた状態管理
-  - [ISceneState.cs]([https://google.com](https://github.com/MAJIMUN-kobo/2026_AS2_Lesson04/blob/main/Assets/_AS2_Lesson04/Scripts/SceneState/ISceneState.cs))
-  - [TitleSceneState.cs]([https://google.com](https://github.com/MAJIMUN-kobo/2026_AS2_Lesson04/blob/main/Assets/_AS2_Lesson04/Scripts/SceneState/TitleSceneState.cs))
-  - [GameSceneState.cs]([https://google.com](https://github.com/MAJIMUN-kobo/2026_AS2_Lesson04/blob/main/Assets/_AS2_Lesson04/Scripts/SceneState/GameSceneState.cs))
-  - [ResultSceneState.cs]([https://google.com](https://github.com/MAJIMUN-kobo/2026_AS2_Lesson04/blob/main/Assets/_AS2_Lesson04/Scripts/SceneState/ResultSceneState.cs))
+  - [ISceneState.cs](https://github.com/MAJIMUN-kobo/2026_AS2_Lesson04/blob/main/Assets/_AS2_Lesson04/Scripts/SceneState/ISceneState.cs)
+  - [TitleSceneState.cs](https://github.com/MAJIMUN-kobo/2026_AS2_Lesson04/blob/main/Assets/_AS2_Lesson04/Scripts/SceneState/TitleSceneState.cs)
+  - [GameSceneState.cs](https://github.com/MAJIMUN-kobo/2026_AS2_Lesson04/blob/main/Assets/_AS2_Lesson04/Scripts/SceneState/GameSceneState.cs)
+  - [ResultSceneState.cs](https://github.com/MAJIMUN-kobo/2026_AS2_Lesson04/blob/main/Assets/_AS2_Lesson04/Scripts/SceneState/ResultSceneState.cs)
 
 
 ## 2026-10-05 Update.
